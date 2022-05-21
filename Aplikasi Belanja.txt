@@ -1,0 +1,37 @@
+       STRUK PENJUALAN      
+   APLIKASI BELANJA ONLINE  
+============================
+					saldo : Rp. 3.000.000
+Daftar Belanja Anda
+
+====================================================
+| No | Model | Size | Harga  | Jumlah Beli | Total |
+====================================================
+|   1|     polo|     L| 150000|        2| 300000|
+|   2|     cardigan|     L| 80000|        1| 80000|
+|   3|     Sweater|     M| 150000|        2| 300000|
+====================================================
+
+Data diri :
+
+Nama		: krisna
+Alamat        : semarang
+No Hp         : 08123456789
+Alamat Tujuan : jakarta
+Menggunakan ansuransi
+Ekspedisi Ninja Express
+Estimasi barang sampai 1 hari
+Voucher Potongan 50%
+
+Jadi Total Belanja keseluruhan :Rp. 346250
+
+
+
+===============================================
+Pembayaran Melalui ? = COD dengan total 346250
+
+
+		 Pengiriman dilakukan setelah anda transfer       
+		     *Barang Yang Sudah Dibeli*       
+		     **Tidak Dapat Dikembalikan**          
+		
